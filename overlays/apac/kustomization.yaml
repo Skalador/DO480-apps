@@ -4,6 +4,8 @@ bases:
 - ../../base
 
 nameSuffix: -apac
+resources:
+- route.yaml
 
 images:
   - name: mysql
